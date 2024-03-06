@@ -1,7 +1,7 @@
 
 paypal:
-  client-id: AagQsDHV_VVLtnle7kMwOV9yTcL4GEfRdm2FSzTsbAXJxynb8UNOsBNQb4QtvOQr1h6jHRRuviV1Ps_l
-  client-secret: AagQsDHV_VVLtnle7kMwOV9yTcL4GEfRdm2FSzTsbAXJxynb8UNOsBNQb4QtvOQr1h6jHRRuviV1Ps_l
+  client-id: Af4Ci_yhMCm8wzpzZjo-XxW05lQIx-6s2CudpzDPiMYyolFjf0iIEeQm8XcFiniTffUMYo7x5CWN2pxH
+  client-secret: EDdGRYAzG1DbIVtAjPgWvfjhgpeZ1BQQY3plccEza6muoVn4JRoToLMaTmS0PfyAsT6Kt4q18Xa806wI
   model: sandbox # I'm using sandbox for the testing but if it's for production then you can use live
 server:
   port: 8090
