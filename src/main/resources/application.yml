@@ -1,0 +1,7 @@
+
+paypal:
+  client-id: AagQsDHV_VVLtnle7kMwOV9yTcL4GEfRdm2FSzTsbAXJxynb8UNOsBNQb4QtvOQr1h6jHRRuviV1Ps_l
+  client-secret: AagQsDHV_VVLtnle7kMwOV9yTcL4GEfRdm2FSzTsbAXJxynb8UNOsBNQb4QtvOQr1h6jHRRuviV1Ps_l
+  model: sandbox # I'm using sandbox for the testing but if it's for production then you can use live
+server:
+  port: 8090
